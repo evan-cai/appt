@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>appt-appter</module>
+        <module>appt-gateway</module>
     </modules>
 
 

@@ -10,6 +10,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>appt-appter</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>appt-appter-api</module>
+        <module>appt-appter-common</module>
+        <module>appt-appter-dao</module>
+        <module>appt-appter-service</module>
+    </modules>
 
 
 </project>

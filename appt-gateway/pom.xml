@@ -10,6 +10,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>appt-gateway</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>appt-gateway-web</module>
+        <module>appt-gateway-service</module>
+        <module>appt-gateway-common</module>
+    </modules>
 
 
 </project>
