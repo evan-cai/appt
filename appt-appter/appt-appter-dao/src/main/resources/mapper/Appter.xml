@@ -4,6 +4,7 @@
 
     <resultMap id="Appter" type="Appter">
         <id column="id" property="id"/>
+
     </resultMap>
 
 </mapper>
